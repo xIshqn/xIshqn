@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, PyGame, NodeJS, Java, HTML, CSS, DiscordJS/PY, C++**
 
-- 📫 How to reach me **Discord: _ishy**
+- 📫 How to reach my **Discord: _ishy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
